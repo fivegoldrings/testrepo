@@ -5,7 +5,7 @@ This repository is for planning a party to learn GitHub and more!
 
 ## About
 This is some text about my project.
-Parties are great right? Let me tell you how mine will be the very best.
+Parties are great right? Let me tell you how mine will be the very best. There will be beer.
 
 ## Team
 So far my team is small - just 1 person, but I'm willing to work with you!
